@@ -1,2 +1,2 @@
-Elevor360D Brick Model Companion V1
-Upload all files to GitHub Pages. Copy your existing advertising images into advertising/images, including Sunset Banner.png, or replace the advertising folder with your working one. Install via browser on HTTPS. Open online once before using offline. Records and photos are stored locally; use Backup regularly. Stop build timer before closing the app; unfinished timer sessions are not saved. Starter instructions are original text-based ideas, not official LEGO instructions or physically tested models. External links require internet.
+Brick Model Companion V1.5
+Upload all files to your existing repository. Build Ideas removed; Custom builds and existing records retained. Advertising and logo included.
